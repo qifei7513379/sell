@@ -1,3 +1,6 @@
+2018-1-17开始，手打高仿饿了么 WEB APP。
+应用VUE-cli+Node。
+
 # sell
 
 > sell1
